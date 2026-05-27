@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtervave",
+        "uuid": 10634658,
+        "checksum": "957bpc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
